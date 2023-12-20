@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dishant Gajwe</h1>
 <h3 align="center">I'm a front-end developer from India, passionate about programming and currently studying more and more!</h3>
+<img align ="right" alt "Coding" width="500" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 - 🌱 I’m currently learning **Python, js, react js**
 
