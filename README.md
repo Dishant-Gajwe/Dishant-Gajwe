@@ -1,5 +1,4 @@
-[![MasterHead](https://github.com/Dishant-Gajwe/dishant-gajwe/assets/152062055/0ba0c766-fdb2-407d-aac8-d9505127e0b5&w=820&h=360)](dishant-gajwe)
-
+[![MasterHead](https://img.freepik.com/premium-photo/robust-futuristic-gamer-computer-cpu-with-rgb-neon-lights-gaming-concept-generative-ai_803320-16332.jpg?w=1280&h=640)](dishant-gajwe)
 <h1 align="center">Hey Everyone 👋, I'm Dishant Gajwe</h1>
 <h3 align="center">I'm a front-end developer from India, passionate about programming and currently studying more and more!</h3> <br>
 <img align ="right" alt "Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">
