@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/developing-new-software-laptop-freelance-developer-programming-coding-development-concept_582267-1135.jpg?w=1280&h=640)](dishant-gajwe)
+[![MasterHead](https://github.com/Dishant-Gajwe/dishant-gajwe/assets/152062055/0ba0c766-fdb2-407d-aac8-d9505127e0b5&w=820&h=360)](dishant-gajwe)
 
 <h1 align="center">Hey Everyone 👋, I'm Dishant Gajwe</h1>
 <h3 align="center">I'm a front-end developer from India, passionate about programming and currently studying more and more!</h3> <br>
