@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-photo/robust-futuristic-gamer-computer-cpu-with-rgb-neon-lights-gaming-concept-generative-ai_803320-16332.jpg?w=1280&h=640)](dishant-gajwe)
 <h1 align="center">Hey Everyone 👋, I'm Dishant</h1>
-<h3 align="center">I'm a front-end developer from India, passionate about programming and currently studying more and more!</h3> <br>
+<h3 align="center"> <b> A passionate front-end enthusiast currently on an exciting learning journey in the vast world of web development. 🚀</b> </h3> <br>
 <img align ="right" alt "Coding" width="400" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif">
 
 - 🌱 I’m currently learning **Python, js, react js**
