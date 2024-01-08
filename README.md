@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/robust-futuristic-gamer-computer-cpu-with-rgb-neon-lights-gaming-concept-generative-ai_803320-16332.jpg?w=1280&h=640)](dishant)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)](dishant)
  **<h2 align="center"> Hey Everyone 👋, I'm Dishant. </h2>**
 <h4 align="center"> <b> A passionate front-end enthusiast currently on an exciting learning journey in the vast world of web development. 🚀</b> </h4> <br> <br>
 <img align ="right" alt "Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
